@@ -1,7 +1,8 @@
 repo_name: th3mon/jqueryui-widgets
-report_id: a92ead0fe089224ca473c81237fac02c
+report_id: d433b448df701c63cba2996825e72784
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:26:40+00:00'
+timestamp: '2024-01-04T14:53:42+00:00'
 requested_by: stack-file[bot]
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/th3mon/jqueryui-widgets/blob/master/js/jquery-1.9.1.js
   detection_source: js/jquery-1.9.1.js
   last_updated_by: Przemysław Szelenberger
   last_updated_on: 2013-08-29 14:10:18.000000000 Z
@@ -27,4 +29,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/th3mon/jqueryui-widgets
   detection_source: Repo Metadata
